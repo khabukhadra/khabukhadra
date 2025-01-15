@@ -28,9 +28,10 @@ She is welcomed with an array of domains to choose from. Each of which house a n
 <img src="https://freelanceme.blob.core.windows.net/container1/ghada.png" align="center" width="300" />
 <br/><br/>Dana views Ghada's profile and taps on 'Ping Me' in order to start the conversation.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/pingghada.png" align="center" width="300" />
-<br/><br/>It is up to Ghada to decide whether to make the half hour trip, and it is her decision whether or not to start the contract. At this point, it is in Dana's best interest to ping a number of freelancers to increase response time and the potential for a match.<br/><br/>
+<br/><br/>The ball is now in Ghada's court, and it's up to her whether or not to start the contract. The long transit time may be an issue, and so she can always give the client a call to discuss further. At this point, if Dana's pressed for time, it is in her best interest to ping a number of freelancers to increase the chance for a match.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/gpings2.png" align="center" width="300" />
 <br/><br/>The hours spent and the amount paid are agreed between the two parties. It is in the client's hands to end the contract as long as all matters have come to an end. <br/><br/>
+
 <img src="https://freelanceme.blob.core.windows.net/container1/danacontrrats.png" align="center" width="300" />
 <br/><br/>But Dana also has the ability to rate, a tool for transparency which the other members of the app can benefit from.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/rate.png" align="center" width="300" />
