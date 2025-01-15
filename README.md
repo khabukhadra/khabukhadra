@@ -1,4 +1,7 @@
 # 'Ping A Freelancer'
+
+<img src="https://freelanceme.blob.core.windows.net/container1/55579_Ping.png" align="center" />
+
 ### A .NET Blazor WebAssembly single-page app, and a one-stop shop to your neighborhood's handymen, technicians, and craftsmen
 
 #### This GitHub page showcases a SaaS marketplace I’ve been developing, ‘Ping A Freelancer’, that connects freelancers who provide in-home services to clients that need things done, potentially within the hour. Be it a painter, a nanny, a tutor, a furniture assembler, or a chiropractor. This eliminates intermediaries and ramps up response times, providing flexibility at an affordable rate.
