@@ -8,12 +8,16 @@ Though a fully functional web app, the ultimate goal is to transition to a .NET 
 
 Assume that Dana is planning her daughter's engagement party and would like the services of a photographer and a hairstylist, but hasn't made arrangements, and it's getting quite late. She decides to open Ping A Freelancer to browse its freelancers.
 <img src="https://freelanceme.blob.core.windows.net/container1/register.png" align="center" width="300" />
-<br/>She registers with her details for a new account.<br/>
+<br/><br/>She registers with her details for a new account.
+<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/register3.png" align="center" width="300" />
-<br/>She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. From furniture assemblers, to housekeepers...<br/>
+<br/><br/>
+She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. From furniture assemblers, to housekeepers...
+<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
-<br/>to chiropractors, to interior designers, to WiFi technicians, to pet sitters, to music teachers.<br/>
-<img src="https://freelanceme.blob.core.windows.net/container1/domains2.png" align="center" width="300" />
+<br/><br/>to chiropractors, to interior designers, to WiFi technicians...<br/><br/>
+<img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
+<br/><br/>to pet sitters, to music teachers, all offering in-home services.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 <img src="https://freelanceme.blob.core.windows.net/container1/meshal.png" align="center" width="300" />
 <img src="https://freelanceme.blob.core.windows.net/container1/ghada.png" align="center" width="300" />
