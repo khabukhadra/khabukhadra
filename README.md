@@ -9,7 +9,7 @@ This GitHub page showcases a SaaS marketplace I’ve been developing, ‘Ping A 
 Though a fully functional web app, the ultimate goal is to transition to a .NET MAUI Blazor Hybrid app would provide offline capabilities, essentially giving users a phonebook of freelancers to contact despite not being able to interact. The app would also leverage push notifications and alerts. The following examples wrap the app content with the chassis of an iPhone, in order to display the final product that I am envisioning.
 
 ## Typical scenario
-Assume that Dana is planning her daughter's engagement party and would like the services of a photographer and a hairstylist, but hasn't made arrangements, and it's getting quite late. She decides to open Ping A Freelancer to browse its freelancers.
+Assume that Dana AlQahtani is planning her daughter's engagement party and would like the services of a photographer and a hairstylist, but hasn't made arrangements, and it's getting quite late. She decides to open Ping A Freelancer to browse its freelancers.
 <img src="https://freelanceme.blob.core.windows.net/container1/register.png" align="center" width="300" />
 <br/><br/>She registers with her details for a new account.
 <br/><br/>
@@ -28,7 +28,7 @@ She is welcomed with an array of domains to choose from. Each of which house a n
 <img src="https://freelanceme.blob.core.windows.net/container1/ghada.png" align="center" width="300" />
 <br/><br/>Dana views Ghada's profile and taps on 'Ping Me' in order to start the conversation.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/pingghada.png" align="center" width="300" />
-<br/><br/>It is up to Ghada to decide whether to make the half hour trip, and it is her decision whether or not to start the contract.<br/><br/>
+<br/><br/>It is up to Ghada to decide whether to make the half hour trip, and it is her decision whether or not to start the contract. At this point, it is in Dana's best interest to ping a number of freelancers to increase response time and the potential for a match.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/gpings2.png" align="center" width="300" />
 <br/><br/>The hours spent and the amount paid are agreed between the two parties. It is in the client's hands to end the contract as long as all matters have come to an end. <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/danacontrrats.png" align="center" width="300" />
