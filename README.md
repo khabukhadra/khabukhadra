@@ -15,7 +15,7 @@ Though a fully functional web app, the ultimate goal is to transition to a .NET 
 <img src="https://freelanceme.blob.core.windows.net/container1/pingghada.png" align="center" width="300" />
 <img src="https://freelanceme.blob.core.windows.net/container1/gpings2.png" align="center" width="300" />
 <img src="https://freelanceme.blob.core.windows.net/container1/danacontrrats.png" align="center" width="300" />
-<img src="https://freelanceme.blob.core.windows.net/container1/rate" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/rate.png" align="center" width="300" />
 
 <!--
 **khabukhadra/khabukhadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
