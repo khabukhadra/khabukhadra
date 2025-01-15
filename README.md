@@ -16,13 +16,18 @@ She is welcomed with an array of domains to choose from. Each of which house a n
 <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
 <br/><br/>to chiropractors, to interior designers, to WiFi technicians...<br/><br/>
-<img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/domains2.png" align="center" width="300" />
 <br/><br/>to pet sitters, to music teachers, all offering in-home services.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
+<br/><br/>She finds a photographer under Business Services. One down, one to go.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/meshal.png" align="center" width="300" />
+<br/><br/>And a stylist. Great.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/ghada.png" align="center" width="300" />
+<br/><br/>Dana views Ghada's profile and taps on 'Ping Me' in order to start the conversation.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/pingghada.png" align="center" width="300" />
+<br/><br/>It is up to Ghada to decide whether to make the half hour trip, and it is her decision whether or not to start the contract.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/gpings2.png" align="center" width="300" />
+<br/><br/>The hours spent and the amount paid are agreed between the two parties. But Dana also has the ability to rate, a tool for transparency which the other members of the app can benefit from.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/danacontrrats.png" align="center" width="300" />
 <img src="https://freelanceme.blob.core.windows.net/container1/rate.png" align="center" width="300" />
 
