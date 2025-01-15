@@ -7,7 +7,16 @@ This GitHub page showcases a SaaS marketplace I’ve been developing, ‘Ping A 
 Though a fully functional web app, the ultimate goal is to transition to a .NET MAUI Blazor Hybrid app would provide offline capabilities, essentially giving users a phonebook of freelancers to contact despite not being able to interact. The app would also leverage push notifications and alerts. The following examples wrap the app content with the chassis of an iPhone, in order to display the final product that I am envisioning.
 
 <img src="https://freelanceme.blob.core.windows.net/container1/register.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/domains2.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/meshal.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/ghada.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/pingghada.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/gpings.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/danacontrrats.png" align="center" width="300" />
 <img src="https://freelanceme.blob.core.windows.net/container1/register3.png" align="center" width="300" />
+
 <!--
 **khabukhadra/khabukhadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
