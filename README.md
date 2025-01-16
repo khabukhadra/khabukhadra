@@ -17,6 +17,7 @@ Assume that Dana AlQahtani is planning her daughter's engagement party and would
 <br/><br/>
 She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. 
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
+From furniture assemblers, to housekeepers (found in Manual Labor and Domestic Services, respectively)
 <img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 <br/><br/>
