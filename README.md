@@ -15,12 +15,17 @@ Assume that Dana AlQahtani is planning her daughter's engagement party and would
 <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/register3.png" align="center" width="300" />
 <br/><br/>
-She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. From furniture assemblers, to housekeepers...
-<br/><br/>
+She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. 
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
-<br/><br/>to chiropractors, to interior designers, to WiFi technicians...<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
-<br/><br/>to pet sitters, to music teachers, all offering in-home services.<br/><br/>
+<img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
+<br/><br/>
+From furniture assemblers, to housekeepers (found in Manual Labor and Domestic Services, respectively)
+<br/><br/>
+<br/><br/>to chiropractors, to interior designers, to WiFi technicians... (found in Health & Wellness, Business Services, and Home Technology, respectively)
+<br/><br/>
+<img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
+<br/><br/>to pet sitters, to music teachers, (found in Pet Care, and Performing Arts, respectively), all offering in-home services.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 <br/><br/>She finds a photographer under Business Services. He's Meshal AlFahad. So, one down, one to go.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/meshal.png" align="center" width="300" />
@@ -36,6 +41,8 @@ She is welcomed with an array of domains to choose from. Each of which house a n
 <br/><br/>But Dana also has the ability to rate, a tool for transparency which the other members of the app can benefit from.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/rate.png" align="center" width="300" />
 
+<br/><br/>
+My plan is to continue with the app's development by porting it to MAUI Blazor Hybrid, a technology that fuses Blazor with .NET MAUI and enables mobile functionality, cross-platform. That will allow for notifications, tabbed navigation from page to page, and live location services
 <!--
 **khabukhadra/khabukhadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
