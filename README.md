@@ -15,13 +15,22 @@ Assume that Dana AlQahtani is planning her daughter's engagement party and would
 <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/register3.png" align="center" width="300" />
 <br/><br/>
-She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. <br/><br/>
+She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. There are a total of 52 expertises scaterred across seven domains. <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
-You'll find furniture assemblers, for example, under Manual Labor. And housekeepers under Domestic Services.
-<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
-You'll find chiropractors under Health & Welness, interior designers under Business Services, and WiFi technicians under Home Tech.
+<img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 <br/><br/>
+You'll find furniture assemblers and chauffeurs, for example, under Manual Labor. 
+<br/><br/>
+And housekeepers, errand runners, and in-home chefs under Domestic Services.
+<br/><br/>
+You'll find chiropractors, yoga instructors, and personal trainers under Health & Welness.
+<br/><br/>
+And interior designers, tutors, and stylists under Business Services
+<br/><br/>
+Router technicians and electrical appliance repairerrs are under Home Tech.
+<br/><br/>
+And finally, pet sitters and pet groomers are under Pet Care.
 
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 
