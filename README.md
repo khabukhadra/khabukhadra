@@ -17,7 +17,7 @@ Assume that Dana AlQahtani is planning her daughter's engagement party and would
 <br/><br/>
 She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. There are a total of 52 expertises scaterred across seven domains. <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
-<img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
+<img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="333" />
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 <br/><br/>
 You'll find furniture assemblers and chauffeurs, for example, under Manual Labor. 
@@ -32,11 +32,8 @@ Router technicians and electrical appliance repairerrs are under Home Tech.
 <br/><br/>
 And finally, pet sitters and pet groomers are under Pet Care.
 
-<img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 
-Pet sitters are found in Pet Care, and music teachers under Performing Arts.<br/><br/>
-<img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
-<br/><br/>She finds a photographer under Business Services. He's Meshal AlFahad. So, one down, one to go.<br/><br/>
+<br/><br/>Dana finds a photographer under Business Services. He's Meshal AlFahad. So, one down, one to go.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/meshal.png" align="center" width="300" />
 <br/><br/>And a stylist. Ghada AlSubaie. Great.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/ghada.png" align="center" width="300" />
