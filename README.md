@@ -15,18 +15,17 @@ Assume that Dana AlQahtani is planning her daughter's engagement party and would
 <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/register3.png" align="center" width="300" />
 <br/><br/>
-She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. 
+She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
 From furniture assemblers, to housekeepers (found in Manual Labor and Domestic Services, respectively)
+<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
+to chiropractors, to interior designers, to WiFi technicians... (found in Health & Wellness, Business Services, and Home Technology, respectively)
+<br/><br/>
+
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
-<br/><br/>
-From furniture assemblers, to housekeepers (found in Manual Labor and Domestic Services, respectively)
-<br/><br/>
-<br/><br/>to chiropractors, to interior designers, to WiFi technicians... (found in Health & Wellness, Business Services, and Home Technology, respectively)
-<br/><br/>
-<img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
-<br/><br/>to pet sitters, to music teachers, (found in Pet Care, and Performing Arts, respectively), all offering in-home services.<br/><br/>
+
+to pet sitters, to music teachers, (found in Pet Care, and Performing Arts, respectively), all offering in-home services.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 <br/><br/>She finds a photographer under Business Services. He's Meshal AlFahad. So, one down, one to go.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/meshal.png" align="center" width="300" />
