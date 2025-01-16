@@ -24,9 +24,9 @@ You'll find furniture assemblers and chauffeurs, for example, under Manual Labor
 <br/><br/>
 And housekeepers, errand runners, and in-home chefs under Domestic Services.
 <br/><br/>
-You'll find chiropractors, yoga instructors, and personal trainers under Health & Welness.
+You'll find chiropractors, yoga instructors, and personal trainers under Health & Wellness.
 <br/><br/>
-And interior designers, tutors, and stylists under Business Services
+And interior designers, tutors, and stylists under Business Services.
 <br/><br/>
 Router technicians and electrical appliance repairerrs are under Home Tech.
 <br/><br/>
@@ -37,14 +37,14 @@ And finally, pet sitters and pet groomers are under Pet Care.
 <img src="https://freelanceme.blob.core.windows.net/container1/meshal.png" align="center" width="300" />
 <br/><br/>And a stylist. Ghada AlSubaie. Great.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/ghada.png" align="center" width="300" />
-<br/><br/>Dana views Ghada's profile and taps on 'Ping Me' in order to start the conversation.<br/><br/>
+<br/><br/>Dana views Ghada's profile and taps on 'Ping Me' in order to start the conversation. She also pings Meshal. <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/pingghada.png" align="center" width="300" />
-<br/><br/>The ball is now in Ghada's court, and it's up to her whether or not to start the contract. The long transit time may be an issue, and so she can always give the client a call to discuss further. At this point, if Dana's pressed for time, it is in her best interest to ping a number of freelancers to increase the chance for a match.<br/><br/>
+<br/><br/>The ball is now in the freelancer's court, and it's up to Ghada to decide whether or not to start a contract. Ghada sees the long transit time, which may be an issue, and so she can always give client Dana a call to discuss further. At this point, if Dana is pressed for time, it is in her best interest to ping a number of different freelancers under the same expertise to increase the chances for a match.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/gpings2.png" align="center" width="300" />
-<br/><br/>The hours spent and the amount paid are agreed between the two parties. It is in the client's hands to end the contract as long as all matters have come to an end. <br/><br/>
+<br/><br/>The hours required is agreed between the two parties. As shown, is in the client's hands to end the contract with 'End contract' as long as all matters have come to an end. <br/><br/>
 
 <img src="https://freelanceme.blob.core.windows.net/container1/danacontrrats.png" align="center" width="300" />
-<br/><br/>But Dana also has the ability to rate, a tool for transparency which the other members of the app can benefit from.<br/><br/>
+<br/><br/>Dana also has the ability to rate, a tool for transparency and integrity which the other members of the app can benefit from.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/rate.png" align="center" width="300" />
 
 <br/><br/>
