@@ -44,11 +44,11 @@ And finally, pet sitters and pet groomers are under Pet Care.
 <br/><br/>The hours required is agreed between the two parties. As shown, is in the client's hands to end the contract with 'End contract' as long as all matters have come to an end. <br/><br/>
 
 <img src="https://freelanceme.blob.core.windows.net/container1/danacontrrats.png" align="center" width="300" />
-<br/><br/>Dana also has the ability to rate, a tool for transparency and integrity which the other members of the app can benefit from.<br/><br/>
+<br/><br/>Dana also has the ability to rate, a tool for transparency and integrity which the other members of the app can benefit from. Note that Ghada's IsActive boolean currently points to the fact that she is actively working with clients and is employable, but I'd like to change its meaning to whether she is enrolled in an active contract, and therefore is busy.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/rate.png" align="center" width="300" />
 
 <br/><br/>
-My plan is to continue with the app's development by porting it to MAUI Blazor Hybrid, a technology that fuses Blazor with .NET MAUI and enables mobile functionality, cross-platform. That will allow for notifications, tabbed navigation from page to page, and live location services
+I was thrilled to develop an app envisioned at a much earlier time during my academic career, one which mapped to a real world scenario that I believed needed solving. The app’s development remained exciting, especially  with a deadline, as I used it during my Senior Design Project. My plan is to continue with the app's development by porting it to MAUI Blazor Hybrid, a technology that fuses Blazor with .NET MAUI and enables mobile functionality, cross-platform. That will allow for notifications, tabbed navigation from page to page, and live location services
 <!--
 **khabukhadra/khabukhadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
