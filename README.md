@@ -17,15 +17,15 @@ Assume that Dana AlQahtani is planning her daughter's engagement party and would
 <br/><br/>
 She is welcomed with an array of domains to choose from. Each of which house a number of freelancers with different expertises. <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
-From furniture assemblers, to housekeepers (found in Manual Labor and Domestic Services, respectively)
+You'll find furniture assemblers, for example, under Manual Labor. And housekeepers under Domestic Services.
 <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="300" />
-to chiropractors, to interior designers, to WiFi technicians... (found in Health & Wellness, Business Services, and Home Technology, respectively)
+You'll find chiropractors under Health & Welness, interior designers under Business Services, and WiFi technicians under Home Tech.
 <br/><br/>
 
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 
-to pet sitters, to music teachers, (found in Pet Care, and Performing Arts, respectively), all offering in-home services.<br/><br/>
+Pet sitters are found in Pet Care, and music teachers under Performing Arts.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/domains3.png" align="center" width="300" />
 <br/><br/>She finds a photographer under Business Services. He's Meshal AlFahad. So, one down, one to go.<br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/meshal.png" align="center" width="300" />
