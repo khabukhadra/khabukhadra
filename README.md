@@ -6,7 +6,7 @@
 
 This GitHub page showcases a SaaS marketplace I’ve been developing, ‘Ping A Freelancer’, that connects freelancers who provide in-home services to clients that need things done, potentially within the hour. Be it a painter, a nanny, a tutor, a furniture assembler, or a chiropractor. This eliminates intermediaries and ramps up response times, providing flexibility at an affordable rate.
 
-Though a fully functional web app, the ultimate goal is to transition to a .NET MAUI Blazor Hybrid app, which would provide offline capabilities, essentially giving users a phonebook of freelancers to contact despite not being able to interact. The app would also leverage push notifications and alerts. The following examples wrap the app content with the chassis of an iPhone, in order to display the final product that I am envisioning. The app's backend architecture, and most of its core logic, would remain the same.
+Though this is a fully functional web app, the ultimate goal is to transition to a .NET MAUI Blazor Hybrid app, which would provide offline capabilities, essentially giving users a phonebook of freelancers to contact despite not being able to interact live. The app would also leverage push notifications and alerts. The following examples wrap the app content with the chassis of an iPhone, in order to display the final product that I am envisioning. The app's backend architecture, and most of its core logic, would remain the same during the transition.
 
 ## Typical scenario
 Assume that Dana AlQahtani is planning her daughter's engagement party and would like the services of a photographer and a hairstylist, but hasn't made arrangements, and it's getting quite late to do so. She decides to start up Ping A Freelancer to browse its freelancers.<br/><br/>
