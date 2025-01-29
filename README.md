@@ -4,9 +4,11 @@
 
 ### A .NET Blazor WebAssembly single-page app. A one-stop shop to your neighborhood's handymen, technicians, and craftsmen.
 
-This GitHub page showcases a SaaS marketplace I’ve been developing, ‘Ping A Freelancer’, that connects freelancers who provide in-home services to clients that need things done, potentially within the hour. Be it a painter, a nanny, a tutor, a furniture assembler, or a chiropractor. This eliminates intermediaries and ramps up response times, providing flexibility at an affordable rate.
+‘Ping A Freelancer’ is a SaaS marketplace that connects freelancers who provide in-home services to clients that need things done, potentially within the hour. Be it a painter, a nanny, a tutor, a furniture assembler, or a chiropractor. This eliminates intermediaries and ramps up response times, providing flexibility at an affordable rate.
 
-Though this is a fully functional web app, the ultimate goal is to transition to a .NET MAUI Blazor Hybrid app, which would provide offline capabilities, essentially giving users a phonebook of freelancers to contact despite not being able to interact live. The app would also leverage push notifications and alerts. The following examples wrap the app content with the chassis of an iPhone, in order to display the final product that I am envisioning. The app's backend architecture, and most of its core logic, would remain the same during the transition.
+Despite the modern and simplistic UI, this GitHub is meant to portray my emphasis in backend .NET as opposed to frontend Blazor/Razor. There are ten times as many lines of code in my API when compared to the client web app. The UI’s body is wrapped from all four sides within an iPhone container, demonstrating what I’ve envisioned for the final prototype. 
+
+The ultimate goal is to transition to a .NET MAUI Blazor Hybrid app. Offline capabilties would essentially give users a phonebook of freelancers to contact despite not being able to interact live. This would also leverage push notifications and alerts. Only the frontend architecture would need patching. 
 
 ## Typical scenario
 Assume that Dana AlQahtani is planning her daughter's engagement party and would like the services of a photographer and a hairstylist, but hasn't made arrangements, and it's getting quite late to do so. She decides to start up Ping A Freelancer to browse its freelancers.<br/><br/>
