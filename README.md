@@ -10,7 +10,7 @@ The program's output when running displays all the required pages and elements. 
 
 ## Typical scenario
 Assume that Dana AlQahtani is planning her daughter's engagement party and would like the services of a photographer and a hairstylist, but hasn't made arrangements, and it's getting quite late to do so. She decides to start up Ping A Freelancer to browse its freelancers.<br/><br/>
-<img src="https://freelanceme.blob.core.windows.net/container1/register.png" align="center" width="300" style=text-align:center/>
+<img src="https://freelanceme.blob.core.windows.net/container1/register.png" align="center" width="300" style="text-align:center"/>
 <br/><br/>She registers with her details for a new account.
 <br/><br/>
 <img src="https://freelanceme.blob.core.windows.net/container1/register3.png" align="center" width="300" />
