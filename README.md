@@ -7,7 +7,7 @@
 - The app is written using ASP.NET Web API and ASP.NET Blazor WebAssembly, and shall be ported to MAUI Blazor Hybrid to enable native mobile phone support.
 - The backend API is also being refactored to meet Vertical Slice and Clean Architecture guidelines and patterns.
 
-<img src="https://freelanceme.blob.core.windows.net/container1/register.png" width="300" style="text-align:center;"/>
+<img src="https://freelanceme.blob.core.windows.net/container1/register.png" width="330" style="text-align:center;"/>
 
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
 <img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="333" />
