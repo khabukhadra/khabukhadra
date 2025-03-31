@@ -4,11 +4,8 @@
 
 ### A .NET Blazor WebAssembly single-page app. A one-stop shop to your neighborhood's handymen, technicians, and craftsmen.
 
-- ‘Ping A Freelancer’ is a SaaS marketplace that connects freelancers who provide in-home services to clients that need things done, potentially within the hour. This eliminates intermediaries and ramps up response times, providing flexibility at an affordable rate.
 - The app is written using ASP.NET Web API and ASP.NET Blazor WebAssembly, and shall be ported to MAUI Blazor Hybrid to enable native mobile phone support.
-- After porting, offline capability is achieved, and the user will be able to scan the list of freelancers and call one up to make arrangements. 
 - The backend API is also being refactored to meet Vertical Slice and Clean Architecture guidelines and patterns.
-<img src="https://github.com/user-attachments/assets/f3695e41-2125-4634-be5b-85334b5353bf" />
 
 <img src="https://freelanceme.blob.core.windows.net/container1/register.png" width="300" style="text-align:center;"/>
 <img src="https://freelanceme.blob.core.windows.net/container1/register3.png" align="center" width="300" />
