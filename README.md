@@ -8,7 +8,6 @@
 - The backend API is also being refactored to meet Vertical Slice and Clean Architecture guidelines and patterns.
 
 <img src="https://freelanceme.blob.core.windows.net/container1/register.png" width="300" style="text-align:center;"/>
-<img src="https://freelanceme.blob.core.windows.net/container1/register3.png" align="center" width="300" />
 
 <img src="https://freelanceme.blob.core.windows.net/container1/domains.png" align="center" width="300" />
 <img src="https://freelanceme.blob.core.windows.net/container1/domains4.png" align="center" width="333" />
