@@ -1,12 +1,15 @@
 ### Technical Skills
 
 ## Backend/Server
+<html>
 <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="100" />
 </span>
+</html>
 
 ## Programming Languages
+<html>
 <span>
   
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
@@ -20,6 +23,8 @@
           
                     
 </span>
+  
+</html>
 
 # 'Ping A Freelancer'
 
