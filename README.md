@@ -35,6 +35,7 @@
 
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/jira.png" height="100" />
                       <h4>Architecture & Patterns</h5>
 
   <img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/jwt.png" height="100" />
