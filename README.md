@@ -1,6 +1,6 @@
 <p style="text-align: center;">
-## Technical Skills
-
+Technical Skills
+</p>
 <html>
   <h4>Backend/Server</h5>
 <span>
