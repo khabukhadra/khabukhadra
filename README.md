@@ -1,7 +1,7 @@
+<html>
 <h1 style="text-align: center;">
 Technical Skills
 </h1>
-<html>
   <h4>Backend/Server</h5>
 <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="100" />
