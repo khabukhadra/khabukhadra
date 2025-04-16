@@ -3,9 +3,11 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="300" style="text-align: center;" />
   <br />
+  Hi there, I'm Kanaan
 </h1>
-Technical Skills
-</h1>
+<h3>
+  Technical Skills
+</h3>
   <h4>Backend/Server</h5>
 <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="100" />
