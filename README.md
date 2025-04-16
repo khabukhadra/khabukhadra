@@ -1,3 +1,4 @@
+<p style="text-align: center;">
 ## Technical Skills
 
 <html>
