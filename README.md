@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="300" style="text-align: center;" />
   <br />
-  Hi there, I'm Kanaan
+  Hi there, I'm Kanaan, Software Developer
 </h1>
 <h3>
   Technical Skills
