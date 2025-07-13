@@ -1,12 +1,15 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="300" alt="Developer Animation" />
-    <h1>Hi there, I'm Kanaan, Software Developer</h1>
+    <h1>Backend Software Developer</h1>
 </div>
 
 ### Technical Skills
 
 #### Backend/Server
 <p>
+    
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80" alt="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="80" height="80" alt="FastAPI" />
 </p>
