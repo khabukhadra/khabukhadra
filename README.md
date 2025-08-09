@@ -8,7 +8,8 @@
 #### Backend/Server
 <p>
     
-          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80" alt="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="80" height="80" alt="FastAPI" />
 </p>
