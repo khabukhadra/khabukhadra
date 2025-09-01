@@ -3,6 +3,13 @@
     <h1>Backend Software Developer</h1>
 </div>
 
+<div align="center">
+    <a href="https://github.com/khabukhadra/PAF.Client" target="_blank">
+        <h3><strong>🚀 Check out my micro-SaaS web app, Ping A Freelancer</strong></h3>
+    </a>
+</div>
+
+
 ### Technical Skills
 
 #### Backend/Server
@@ -56,8 +63,3 @@
 
 ---
 
-<div align="center">
-    <a href="https://github.com/khabukhadra/PAF.Client" target="_blank">
-        <strong>🚀 Check out 'Ping A Freelancer' SaaS Client App</strong>
-    </a>
-</div>
