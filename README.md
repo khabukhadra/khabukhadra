@@ -1,12 +1,11 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="300" alt="Developer Animation" />
-    <h1>Backend Software Developer</h1>
 </div>
 
 <div align="center">
-    <h3><a href="https://github.com/khabukhadra/PAF.Client" target="_blank">
-        <strong>🚀 Check out my micro-SaaS web app, Ping A Freelancer</strong>
-    </a></h3>
+    <h2><a href="https://github.com/khabukhadra/PAF.Client" target="_blank">
+        <strong>🚀 Visit my micro-SaaS web app Ping A Freelancer</strong>
+    </a></h2>
 </div>
 
 
