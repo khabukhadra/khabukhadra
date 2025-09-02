@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-    <h2><a href="https://github.com/khabukhadra/PAF.Client" target="_blank">
-        <strong>🚀 Visit my micro-SaaS web app Ping A Freelancer</strong>
-    </a></h2>
+    <h1><a href="https://github.com/khabukhadra/PAF.Client" target="_blank">
+        <strong>🚀 Watch the demo of my micro-SaaS web app 'Ping A Freelancer'</strong>
+    </a></h1>
 </div>
 
 
