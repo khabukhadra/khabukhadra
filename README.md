@@ -4,8 +4,6 @@
   <video src="https://github.com/user-attachments/assets/6b2b0d7f-5de1-4807-aea9-20f29781ab3f" width="400" />
 </div>
       
-<video src="https://github.com/user-attachments/assets/6b2b0d7f-5de1-4807-aea9-20f29781ab3f" />
-
 <div align="center">
     <h1><a href="https://github.com/khabukhadra/PAF.Client" target="_blank">
         <strong>🚀 Watch the demo of my micro-SaaS web app 'Ping A Freelancer'</strong>
