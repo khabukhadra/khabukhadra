@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-        <td width="50%">
+        <td width="40%">
 
 <p>
   Imagine a world where technology democratizes opportunity. Where distance doesn’t determine access to services. Where a client needing immediate help can connect with available local talent nearby. 
