@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-        <td>
+        <td width="60%">
 
 <p>
   Imagine a world where technology democratizes opportunity. Where distance doesn’t determine access to services. Where a client needing immediate help can connect with available local talent nearby. 
@@ -36,10 +36,6 @@ This app was a pleasure to envision, design, and write, and I hope you enjoy lea
 
   </tr>
 </table>
-
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/6b2b0d7f-5de1-4807-aea9-20f29781ab3f" width="400" />
-</div>
 
 <!--
 <div align="center">
