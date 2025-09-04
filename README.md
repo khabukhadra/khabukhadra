@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-        <td width="60%">
+        <td width="50%">
 
 <p>
   Imagine a world where technology democratizes opportunity. Where distance doesn’t determine access to services. Where a client needing immediate help can connect with available local talent nearby. 
@@ -14,10 +14,6 @@ Ping A Freelancer, a project that took about six months to complete, is a locati
 
 <p>
 It provides access to a registry full of freelancers and their profiles, so that a customer can get work done at his home within the same day, by getting in touch with freelancers such as chiropractors, personal trainers, wifi-technicians, and furniture assemblers, who charge by the hour and on a contract basis. Perfect for clients who want to learn about options available and discover the talent nearby.
-</p>
-
-<p>
-The system promotes accountability, visibility, and accessibility. Once used by the masses, it will act as a collection of verified profiles for both end users as a mark of credibility and so that pings and contracts continue to be initiated and finalized on the app.
 </p>
 
 <p>
