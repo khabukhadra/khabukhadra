@@ -1,5 +1,6 @@
 <h1><strong>🚀 Watch the demo of my micro-SaaS web app 'Ping A Freelancer'</strong></h1>
-<img width="1684" height="2944" alt="collage_4x4" src="https://github.com/user-attachments/assets/6c65d1a1-c5e0-4eae-952d-c8518ed0780b" />
+
+<img width="1620" height="2880" alt="collage_4x4" src="https://github.com/user-attachments/assets/eda63e72-d9ea-40de-8092-5f26057f5e42" />
 
 <table>
   <tr>
