@@ -2,7 +2,7 @@
 
 <!-- <img  src="https://github.com/user-attachments/assets/8bd91d36-7a9d-47d4-a5bc-2390316ecc4b" /> -->
 
-<table>
+<!-- <table>
   <tr>
         <td width="40%">
 
@@ -33,7 +33,7 @@ This app was a pleasure to envision, design, and write, and I hope you enjoy lea
     </td> -->
 
   </tr>
-</table>
+</table> -->
 
 <!--
 <div align="center">
