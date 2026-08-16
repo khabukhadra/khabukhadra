@@ -1,5 +1,5 @@
 <h1><strong>🚀 Watch the demo of my micro-SaaS web app 'Ping A Freelancer'</strong></h1>
-<img width="400" height="7315" alt="collage_by_number" src="https://github.com/user-attachments/assets/77d22562-bab3-43f5-bc5f-2bf6020e6d61" />
+<img width="1400" height="7315" alt="collage_by_number" src="https://github.com/user-attachments/assets/77d22562-bab3-43f5-bc5f-2bf6020e6d61" />
 
 <!-- <img  src="https://github.com/user-attachments/assets/8bd91d36-7a9d-47d4-a5bc-2390316ecc4b" /> -->
 
