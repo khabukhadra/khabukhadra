@@ -94,5 +94,3 @@ This app was a pleasure to envision, design, and write, and I hope you enjoy lea
 <img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/jwt.png" width="80" height="80" alt="JWT" />
 </p> -->
 
----
-
