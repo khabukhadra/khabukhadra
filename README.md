@@ -1,6 +1,7 @@
 <h1><strong>🚀 Watch the demo of my micro-SaaS web app 'Ping A Freelancer'</strong></h1>
+<img width="400" height="7315" alt="collage_by_number" src="https://github.com/user-attachments/assets/77d22562-bab3-43f5-bc5f-2bf6020e6d61" />
 
-<img  src="https://github.com/user-attachments/assets/8bd91d36-7a9d-47d4-a5bc-2390316ecc4b" />
+<!-- <img  src="https://github.com/user-attachments/assets/8bd91d36-7a9d-47d4-a5bc-2390316ecc4b" /> -->
 
 <table>
   <tr>
@@ -26,11 +27,11 @@ The system promotes accountability, visibility, and accessibility. Once used by 
 This app was a pleasure to envision, design, and write, and I hope you enjoy learning about it.
    </p>   
     </td>
-    <td>
+    <!-- <td>
       <div align="center">
   <video src="https://github.com/user-attachments/assets/6b2b0d7f-5de1-4807-aea9-20f29781ab3f" width="400" />
 </div>
-    </td>
+    </td> -->
 
   </tr>
 </table>
