@@ -1,4 +1,3 @@
-<h1><strong>🚀 Watch the demo of my micro-SaaS web app 'Ping A Freelancer'</strong></h1>
 <img width="2000" height="36575" alt="collage_by_number" src="https://github.com/user-attachments/assets/77d22562-bab3-43f5-bc5f-2bf6020e6d61" />
 
 <!-- <img  src="https://github.com/user-attachments/assets/8bd91d36-7a9d-47d4-a5bc-2390316ecc4b" /> -->
@@ -45,17 +44,9 @@ This app was a pleasure to envision, design, and write, and I hope you enjoy lea
 
 
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="300" alt="Developer Animation" />
-</div>
--->
 
 
-
-### Technical Skills
-
-#### Backend/Server
-<p>
+<!-- <p>
     
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"  width="80" height="80" />
@@ -101,7 +92,7 @@ This app was a pleasure to envision, design, and write, and I hope you enjoy lea
 #### Architecture & Patterns
 <p>
 <img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/jwt.png" width="80" height="80" alt="JWT" />
-</p>
+</p> -->
 
 ---
 
